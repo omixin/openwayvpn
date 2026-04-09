@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenWay VPN</string>
+    <string name="vpn_title">OpenWay Test Tunnel</string>
+    <string name="vpn_subtitle">VLESS/Xray тестовый клиент</string>
+    <string name="start_test_vpn">Запустить тест VPN</string>
+    <string name="stop_vpn">Остановить</string>
+    <string name="vpn_state_running">VPN работает</string>
+    <string name="vpn_state_stopped">VPN остановлен</string>
+    <string name="vpn_state_connecting">VPN подключается</string>
+    <string name="vpn_state_permission_denied">Нет разрешения</string>
+    <string name="vpn_state_error">Не удалось запустить VPN</string>
+    <string name="vpn_notification_title">OpenWay VPN</string>
+    <string name="vpn_notification_text">VPN работает</string>
+    <string name="vpn_notification_stop">Стоп</string>
+    <string name="vpn_notification_restart">Перезапуск</string>
+    <string name="vpn_online">VPN Online</string>
+    <string name="vpn_offline">VPN Offline</string>
+    <string name="vpn_connecting">VPN Подключение...</string>
+    <string name="import_clipboard">Импорт из буфера</string>
+    <string name="next_preset">Следующий пресет</string>
+    <string name="no_presets">Нет импортированных профилей</string>
+    <string name="presets_count">Профилей: %1$d</string>
+    <string name="profiles">Профили</string>
+    <string name="back_to_vpn">Назад к VPN</string>
+    <string name="active_profile">Активный профиль</string>
+    <string name="no_profile_selected">Нет активного профиля</string>
+    <string name="tap_to_activate">Нажмите на профиль для активации</string>
+    <string name="current_profile_mark">Текущий</string>
+    
+    <!-- Settings -->
+    <string name="settings">Настройки</string>
+    <string name="back_to_profiles">Назад к профилям</string>
+    <string name="language">Язык</string>
+    <string name="language_ru">Русский</string>
+    <string name="language_en">English</string>
+    <string name="delete_profile">Удалить профиль?</string>
+    <string name="delete_profile_confirm">Профиль \"%1$s\" будет удалён</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="this_profile">этот профиль</string>
+</resources>

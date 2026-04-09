@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">OpenWay VPN</string>
+    <string name="vpn_title">OpenWay Test Tunnel</string>
+    <string name="vpn_subtitle">VLESS/Xray staging client</string>
+    <string name="start_test_vpn">Start test VPN</string>
+    <string name="stop_vpn">Stop</string>
+    <string name="vpn_state_running">VPN running</string>
+    <string name="vpn_state_stopped">VPN stopped</string>
+    <string name="vpn_state_connecting">VPN connecting</string>
+    <string name="vpn_state_permission_denied">Permission denied</string>
+    <string name="vpn_state_error">VPN failed to start</string>
+    <string name="vpn_notification_title">OpenWay VPN</string>
+    <string name="vpn_notification_text">VPN running</string>
+    <string name="vpn_notification_stop">Stop</string>
+    <string name="vpn_notification_restart">Restart</string>
+    <string name="vpn_online">VPN Online</string>
+    <string name="vpn_offline">VPN Offline</string>
+    <string name="vpn_connecting">VPN Connecting...</string>
+    <string name="import_clipboard">Import from clipboard</string>
+    <string name="next_preset">Next preset</string>
+    <string name="no_presets">No presets imported</string>
+    <string name="presets_count">Presets: %1$d</string>
+    <string name="profiles">Profiles</string>
+    <string name="back_to_vpn">Back to VPN</string>
+    <string name="active_profile">Active profile</string>
+    <string name="no_profile_selected">No active profile</string>
+    <string name="tap_to_activate">Tap profile to activate</string>
+    <string name="current_profile_mark">Current</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="back_to_profiles">Back to Profiles</string>
+    <string name="language">Language</string>
+    <string name="language_ru">Русский</string>
+    <string name="language_en">English</string>
+    <string name="delete_profile">Delete profile?</string>
+    <string name="delete_profile_confirm">Profile \"%1$s\" will be deleted</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="this_profile">this profile</string>
+</resources>
